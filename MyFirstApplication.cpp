@@ -16,6 +16,8 @@ int main()
 	//std::cout << "Hello...\t\t\t\t\t there!";
 
 	cout << "2 + 2" << " = " << "4";
+
+	//This is just a test to understand how GitHub works!
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
